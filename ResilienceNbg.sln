@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceNbg", "ResilienceNbg\ResilienceNbg.csproj", "{2A4F286D-1AC5-42C0-8BC8-36FA5DB04164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcResilient", "MvcResilient\MvcResilient.csproj", "{147FD050-7CDB-420D-9696-99B119599BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4F286D-1AC5-42C0-8BC8-36FA5DB04164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4F286D-1AC5-42C0-8BC8-36FA5DB04164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4F286D-1AC5-42C0-8BC8-36FA5DB04164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4F286D-1AC5-42C0-8BC8-36FA5DB04164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147FD050-7CDB-420D-9696-99B119599BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147FD050-7CDB-420D-9696-99B119599BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147FD050-7CDB-420D-9696-99B119599BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147FD050-7CDB-420D-9696-99B119599BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0BEF4BF-7997-4187-9806-C72F0D987889}
+	EndGlobalSection
+EndGlobal
